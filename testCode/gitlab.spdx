@@ -1,0 +1,39 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+DocumentNamespace: https://www.sparrowfasoo.com/spdx/doc/9b8656da-f63d-4761-b0cd-4be2bd2d35d1
+DocumentName: sparrow-sca-spdx-240223-163313
+SPDXID: SPDXRef-DOCUMENT
+
+## Creation Information
+Creator: Person: admin ()
+Creator: Tool: Sparrow SCA-1.6
+Created: 2024-02-23T16:33:13Z
+## Relationships
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-File-3928592
+
+FileName: gitlab.spdx
+SPDXID: SPDXRef-File-3928592
+FileChecksum: SHA1: 17e681e74c4d9ef3ff07cd0c8f206ed8dbaa7113
+LicenseConcluded: MIT
+LicenseInfoInFile: AGPL-3.0-only
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: Artistic-2.0
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: CC-BY-NC-SA-4.0
+LicenseInfoInFile: GPL-2.0-only
+LicenseInfoInFile: GPL-2.0-or-later
+LicenseInfoInFile: GPL-3.0-only
+LicenseInfoInFile: ISC
+LicenseInfoInFile: LGPL-2.1-only
+LicenseInfoInFile: LGPL-2.1-or-later
+LicenseInfoInFile: LGPL-3.0-only
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MPL-1.1
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: OSL-3.0
+LicenseInfoInFile: PostgreSQL
+LicenseInfoInFile: Ruby
+LicenseInfoInFile: WTFPL
+FileCopyrightText: <text>noassertion</text>
+
